@@ -1,1 +1,1 @@
-logWindow: 524 212 212 45 :gameWindow: 338 389 272 86 :window: 742 682 684 0 :
+logWindow: 524 212 212 212 :gameWindow: 338 389 272 86 :window: 742 682 684 0 :
